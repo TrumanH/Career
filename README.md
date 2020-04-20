@@ -73,7 +73,7 @@ Project technology stack:python,mysql,redis,Django,vue...*
 化重构都作了充分考虑；多级日志系统为问题(bug)追踪，运行监控，业务数据统计等
 作了充分考虑……    
 *Achievements: Led the overall design、implementation and optimization 
-from requirements analysis to overview architecture prototype to backend and frontend,
+from requirements analysis to overview architecture prototype to backend details,
 and a simple SPA implementation for user management based on Vue. 
 (Which contains login registration logout overview query subscription unsubscribe, etc.). 
 The architecture scheme is loose-coupling moduling, data-isolation, 
