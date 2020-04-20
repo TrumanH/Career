@@ -32,7 +32,7 @@ Skill-stack list:__Python__,go,mysql,redis,ETCD, docker, MQ,Django..
 主要技术语言为python，也写过go,前端vue等。
 
 #### 深圳市翠绿金业有限公司
-& python开发  & & 2018.06-2018.10
+ &nbsp;python开发  &nbsp; 2018.06-2018.10
 清算业务及报表业务流程自动化，金融相关数据采集作为分析来源，
 后台开发及部署运维等。
 
