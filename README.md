@@ -25,7 +25,7 @@ Skill-stack list:__Python__,go,mysql,redis,ETCD, docker, MQ,Django..
 
 ### 工作经历
 #### 太极计算机股份有限公司
-& python开发  & & 2018.10-至今
+&nbsp;python开发  &nbsp; 2018.10-至今
 
 项目涉及数据分发平台；ETL(Extract-Transfer-Load)；
 爬虫及其中相关的过滤、统计、字符识别等组件；流程自动化等。
@@ -55,9 +55,9 @@ Skill-stack list:__Python__,go,mysql,redis,ETCD, docker, MQ,Django..
 链接:[*http://naotu.baidu.com/file/d42e566e2ad01ec3b5fdb84a48bcfa3e?token=f003507c4f76f023*](http://naotu.baidu.com/file/d42e566e2ad01ec3b5fdb84a48bcfa3e?token=f003507c4f76f023)     
 
 ### 教育经历(Education)
-武汉生物工程学院 &| & 机械设计制造及其自动化 &|& 统招本科    
-Wuhan Bioengineering Institution &|&Mechanical Engineering and Automation &|&Bachelor of Engineering    
- &2011.09 - 2015.06
+武汉生物工程学院 &nbsp;|&nbsp;机械设计制造及其自动化 &nbsp;|&nbsp;统招本科    
+Wuhan Bioengineering Institution&nbsp;|&nbsp;Mechanical Engineering and Automation &nbsp;|&nbsp;Bachelor of Engineering    
+ &nbsp;2011.09 - 2015.06
  
-### 社交主页（Social Page）
-[https://github.com/TrumanH/Career/tree/master](https://github.com/TrumanH/Career/tree/master)
+ ### 社交主页（Social Page）
+ [https://github.com/TrumanH/Career/tree/master](https://github.com/TrumanH/Career/tree/master)
