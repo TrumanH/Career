@@ -6,7 +6,7 @@ Phone:15972972497
 E-mail: trumanhe0@gmail.com
 
 #### 个人优势和技术栈(Personal Advantage And Skill Stack)
-具自驱力的快速学习者，强责任感以及与之而来的将事物落实的自然意愿。
+具自驱力,快速学习者，强责任感及随之而来的将事物落实的自然意愿。
 洞察力及全局观。曾收获相当成熟的经验在中型数据推送系统，
 ETL(Extract-Transfer-Load)等项目中。熟悉常用数据结构及算法，
 对协议通信、缓存储存、架构设计原则及扩展优化等方面较为了解并有一定
@@ -51,7 +51,7 @@ Backend development, deployment, operation and maintenance, etc.*
 阅关系的简单灵活热更新操作且无碍于不中断的近实时分发)及多用户对消费
 多频道中多数据条目时的一致性问题与效率的矛盾权衡后的处理，总体来说使得
 优雅的接口实现，内在充分考虑处理逻辑尽可能完善，暴露出来的使用尽可能
-简洁易用直感。项目技术栈：python,mysql,redis,Django,vue...   
+简洁易用直感。主要技术栈：`python`,`go`,`mysql`,`redis`,`Django`,`vue`,`gunicorn`...   
 
 *Description: A basic model of data  platform: 
 Based on multi-source heterogeneous data structured and stored as data source,
@@ -65,7 +65,7 @@ multi-user consumption.In general, the handling of the contradiction
 between consistency and efficiency in multi-channel and multi data items makes
 elegant interface implementation, fully considering the internal processing 
 logic as perfect as possible, and exposed API as possible simple and easy to use.
-Project technology stack:python,mysql,redis,Django,vue...*
+Project main technology stack:`python`,`go`,`mysql`,`redis`,`Django`,`vue`,`gunicorn`...*
 
 成就：主导从需求分析到整体架构原型到前后端的整体设计实现及优化，和一个基于vue实现
 的简单的SPA用于用户管理(登录注册注销概览查询订阅退订等)。 松耦合分模块数据隔离
