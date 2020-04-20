@@ -59,5 +59,5 @@ Skill-stack list:__Python__,go,mysql,redis,ETCD, docker, MQ,Django..
 Wuhan Bioengineering Institution &|&Mechanical Engineering and Automation &|&Bachelor of Engineering    
  &2011.09 - 2015.06
  
- ### 社交主页（Social Page）
- [https://github.com/TrumanH](https://github.com/TrumanH)
+### 社交主页（Social Page）
+[https://github.com/TrumanH/Career/tree/master](https://github.com/TrumanH/Career/tree/master)
