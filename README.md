@@ -18,7 +18,7 @@ natural willing to get things done.Insight & overall view.Fairly mature
 experiences has been gained in medium-size data distribute system, 
 ETL(Extract-Transfer-Load) and so on.Familiar with basic data structure
 and algorithm,fairly comprehended and practice in communication protocol、
-cache storage、architecture design patterns and principle、extend、optimization and so on.
+cache and storage、architecture design patterns and principle、extend、optimization and so on.
 Fairly accumulation in Fast-Prototyping and Bottleneck-Optimization
 with python.*    
 *Skill-stack list:__Python__,go,mysql,redis,etcd, docker, MQ,Django...*
@@ -52,25 +52,30 @@ Backend development, deployment, operation and maintenance etc.*
 数据进行趋势分析等其它相关接口，以及前端的用户订阅管理SPA。亮点是数据模型的
 动态兼容性(频道及用户及订阅关系的简单灵活热操作且无碍于不中断的近实时分发)
 及多用户消费多频道中多数据条目时的一致性问题(原理启发:GTID,CAS,ACK)与效率的
-矛盾权衡后的处理，总体来说使得接口优雅且高性能实现，内在瓶颈及可扩充维护性等
+矛盾权衡后的处理。总体来说使得接口优雅且高性能实现，内在瓶颈及可扩充维护性等
 充分考虑，处理逻辑边界情况尽可能完善，暴露出来的使用尽可能简洁易用直感。
-松耦合分模块数据隔离的架构方案为后期可能的横向扩展，或数据持久化层的变更迁移，
+具体：松耦合分模块数据隔离的架构方案为后期可能的横向扩展，或数据持久化层的变更迁移，
 或渐进式的微服务化重构都作了充分考虑；多级日志系统为问题追踪，运行监控，业务
 数据统计等作了充分考虑……    
 主要技术栈：`python`,`go`,`mysql`,`redis`,`Django`,`vue`,`gunicorn`...   
 
-*Description: A basic model of data  platform: 
-Based on multi-source heterogeneous data structured and stored as data source,
-Multi user subscription and distribution, business operation, 
-statistical query, analysis based on statistical data and others
-related interface, A front-end subscription management SPA. The 
-highlight is the dynamic compatibility of the data model (channel, 
+*Description: A data distribute platform (design volume: thousands level
+ users,ten thousands level channels, GB level fresh data per day): 
+Source from multi-source heterogeneous data those would structured and
+ stored into database,
+multi user can operate subscription to multi channels and distribution,
+Statistical query, analysis based on statistical data and others
+related interface are exposed through API,
+ A front-end user subscription management SPA provide accessibility of 
+ friendly operating of most function above.Bright spot: the dynamic
+  compatibility of the data model (channel, 
 user and subscription is simple and flexible, hot update operation of 
 reading relationship without impeding near real-time distribution) and 
-multi-user consumption.In general, the handling of the contradiction 
-between consistency and efficiency in multi-channel and multi data items makes
-elegant interface implementation, fully considering the internal processing 
-logic as perfect as possible, and exposed API as possible simple and easy to use.
+ the handling of the consistency issues when 
+multi user consume multi data item of multi channels ,which contradict with efficiency.
+In general,has made an elegant and high performance api implementation, 
+fully considering the internal processing logic as Maintainable as possible, 
+and exposed API as possible simple.
 The architecture scheme is loose-coupling moduling, data-isolation, which are 
 well considered on it's possible horizontal expansion in the later stage, or 
 change/migration of data persistence layer,or gradual microservice refactoring etc.
