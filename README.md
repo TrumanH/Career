@@ -24,7 +24,7 @@ with python.*
 *Skill-stack list:__Python__,go,mysql,redis,etcd, docker, MQ,Django...*
 
 
-### 工作经历(Career)
+### 近期工作(Recent Job)
 #### 太极计算机股份有限公司 （Taiji Computer Co., Ltd）
 &nbsp;python开发(python backend developer)  &nbsp; 2018.10-now
 
